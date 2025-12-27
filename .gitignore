@@ -915,3 +915,6 @@ config/database.yml
 *.zip
 
 # ===== END =====
+!lib/
+!package.json
+!tsconfig.json
